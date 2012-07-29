@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1286795389 source:e:\c++\telephone directory\main.cpp
+	<iostream>
+	"definitions.h"
+	<iomanip>
+	<fstream>
+	<iostream>
+	<conio.h>
+	"create_acc.cpp"
+
+1285423884 e:\c++\telephone directory\definitions.h
+	<iostream.h>
+	<string.h>
+
+1285423495 source:e:\c++\telephone directory\login.cpp
+	<iostream>
+	"definitions.h"
+	<iomanip>
+	<fstream>
+	<conio.h>
+	<iostream>
+	<fstream>
+
+1285423120 e:\c++\telephone directory\sec_main.cpp
+	<iostream>
+	"definitions.h"
+	<iomanip>
+	<fstream>
+	<conio.h>
+
+1285423495 e:\c++\telephone directory\login.cpp
+	<iostream>
+	"definitions.h"
+	<iomanip>
+	<fstream>
+	<conio.h>
+	<iostream>
+	<fstream>
+
+1285931339 e:\c++\telephone directory\create_acc.cpp
+	<iostream>
+	"definitions.h"
+	<conio.h>
+	<iomanip>
+

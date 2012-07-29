@@ -1,0 +1,9 @@
+C++ Telephone Directory
+
+Author: Steve Robinson
+
+This is a C++ based Telephone directory that uses a file to store and retrieve records. This code was written by me to try out object serialization features of C++. This code was untouched for several months and now Ive decided to opensource it so that C++ beginners can test their skills and work on this code. Its not the most effecient piece of code and its ridden with bugs. I want people to fix 'em.
+
+A list of issues will be published shortly. 
+
+
